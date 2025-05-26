@@ -1,0 +1,300 @@
+2025-04-13 14:05:09: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:05:11: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:05:37: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:06:27: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:06:35: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:09:01: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:09:15: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:09:15: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:36: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:38: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:43: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:50: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:51: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:52: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:18:53: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:19:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:24:21: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:26:59: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:29:57: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:29:57: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:38:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:38:02: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:39:59: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:41:06: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+2025-04-13 14:42:43: <br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>71</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>53</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>C:\xampp\htdocs\New folder (3)\Project_inventaris\phpqrcode\qrsplit.php</b> on line <b>62</b><br />
